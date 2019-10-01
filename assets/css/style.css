@@ -1,5 +1,10 @@
 .navbar{
   background: #2c3e50;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 5;
+  width: 100%;
 }
 
 .navbar a{
@@ -8,6 +13,7 @@
 
 }
 .headerdown{
+  margin-top: 40px;
   width: 100%;
   background: lightgreen;
   color: white;
@@ -17,7 +23,10 @@
   margin-top: 6%;
   margin-bottom: 2%;
 }
-
+.item{
+  margin-bottom: 5px;
+  padding: 3px;
+}
 #about{
   color: white;
   font-size: 1.3em;
