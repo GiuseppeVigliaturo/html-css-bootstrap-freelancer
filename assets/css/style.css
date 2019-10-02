@@ -12,10 +12,10 @@
   font-size: 1.2em;
 
 }
-.headerdown{
+.intro{
   margin-top: 40px;
   width: 100%;
-  background: lightgreen;
+  background: #1ABC9C;
   color: white;
 }
 
@@ -40,6 +40,9 @@
   font-size: 1.3em;
 }
 
+#portfolio img{
+  margin: 15px 0;
+}
 
 
 
